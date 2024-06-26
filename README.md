@@ -4,6 +4,7 @@ Hello WOrld
 Hello world
 This is Maven Project
 hello world again!
+hello again
 
 - Free Style Project
 - Pipeline As Code - First real pipeline demo with the pipeline-as-code concept
